@@ -1,10 +1,10 @@
 {
-  "name": "MyMusicHeaven",
+  "name": "mymusicheaven",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
-    "homepage": "https://VaskaNakie.github.io/MyMusicHeaven",
+    "homepage": "https://vaskanakie.github.io/MyMusicHeaven",
     "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.0.0",
