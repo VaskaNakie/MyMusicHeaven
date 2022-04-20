@@ -1,6 +1,6 @@
 const clientId = '53787cadabfb471c8b588198803c9822';
 
-const redirectUri = 'https://vaskanakie.github.io/MyMusicHeaven/';
+const redirectUri = 'http://localhost:3000';
 
 let accessToken; 
 

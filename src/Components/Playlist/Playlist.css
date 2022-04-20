@@ -54,3 +54,25 @@
       width: 90%;
     }
   }
+
+  @media only screen and (max-width: 600px) {
+    .Playlist {
+      width: 93%;
+      height: 450px;
+    }
+  
+    h2 {
+      font-size: 1.4rem;
+    }
+
+    .Playlist-save {
+      cursor: pointer;
+      width: 7rem;
+      height: 2rem;
+      font-size: 0.6rem;
+    }
+
+    .Playlist input {
+      font-size: 1.4rem;
+    }
+  }

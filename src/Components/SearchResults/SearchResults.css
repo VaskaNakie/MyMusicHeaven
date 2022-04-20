@@ -27,3 +27,16 @@
       margin-bottom: 2rem;
     }
   }
+
+  @media only screen and (max-width: 600px) {
+    .SearchResults {
+      width: 95%;
+      height: 450px;
+    
+    }
+  
+    h2 {
+      font-size: 0.2rem;
+      padding: 0rem;
+    }
+  }
