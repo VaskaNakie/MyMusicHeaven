@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MyMusicHeaven/static/css/main.4e148da7.css",
-    "main.js": "/MyMusicHeaven/static/js/main.3fe4243d.js",
+    "main.js": "/MyMusicHeaven/static/js/main.984f0fa1.js",
     "static/js/787.de79ce84.chunk.js": "/MyMusicHeaven/static/js/787.de79ce84.chunk.js",
     "static/media/background_photo_desktop.jpg": "/MyMusicHeaven/static/media/background_photo_desktop.7b9795b89d0bc5709abe.jpg",
     "index.html": "/MyMusicHeaven/index.html",
     "main.4e148da7.css.map": "/MyMusicHeaven/static/css/main.4e148da7.css.map",
-    "main.3fe4243d.js.map": "/MyMusicHeaven/static/js/main.3fe4243d.js.map",
+    "main.984f0fa1.js.map": "/MyMusicHeaven/static/js/main.984f0fa1.js.map",
     "787.de79ce84.chunk.js.map": "/MyMusicHeaven/static/js/787.de79ce84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e148da7.css",
-    "static/js/main.3fe4243d.js"
+    "static/js/main.984f0fa1.js"
   ]
 }
